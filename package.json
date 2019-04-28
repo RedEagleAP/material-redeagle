@@ -1,0 +1,40 @@
+{
+    "name": "material-redeagle",
+    "displayName": "Material-RedEagle",
+    "description": "Color Theme which is based on Material. Designed for front-end developers.",
+    "version": "1.0.0",
+    "publisher": "RedEagleAP",
+    "license": "SEE LICENSE IN LICENSE",
+    "homepage": "https://github.com/redeagleap/material-redeagle/blob/master/README.md",
+    "bugs": {
+      "url": "https://github.com/redeagleap/material-redeagle/issues"
+    },
+    "author": {
+      "name": "Alexander Prisyazhnyuk",
+      "email": "insightinyourmind@gmail.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/redeagleap/material-redeagle.git"
+    },
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RedEagle",
+                "uiTheme": "vs-dark",
+                "path": "./themes/RedEagle-color-theme.json"
+            }
+        ]
+    },
+    "icon": "images/icon.png",
+    "galleryBanner": {
+      "color": "#313569",
+      "theme": "dark"
+    }
+}
