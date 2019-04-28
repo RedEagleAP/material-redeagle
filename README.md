@@ -70,7 +70,7 @@ Depending on your platform it is located in the following folders:
 Clone the Material-RedEagle repository as `RedEagleAP.material-redeagle`:
 
 ```shell
-git clone https://github.com/redeagleap/vsc-material-theme.git RedEagleAP.material-redeagle
+git clone https://github.com/redeagleap/material-redeagle.git RedEagleAP.material-redeagle
 ```
 
 <div id="activate-theme"></div>
